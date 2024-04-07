@@ -1,0 +1,310 @@
+{
+    "sections": [
+        {
+            "id": "cheongs",
+            "title": "The Cheongs",
+            "characterIds": [
+                "nesseo"
+            ]
+        },
+        {
+            "id": "amnesia",
+            "title": "Amnesia Arc",
+            "characterIds": [
+                "Sunset"
+            ]
+        }
+    ],
+    "characters": [
+        {
+            "name": "Hanagi Cheong",
+            "pronouns": "she/her",
+            "caste": "rust",
+            "accentColor": "#9f34b4",
+            "favoriteTea": "Coffee",
+            "id": "hanagi",
+            "sectionId": "cheongs",
+            "images": {
+                "static": "https://64.media.tumblr.com/5b04a57ab012da36aa744337bf339c00/078792f6f9e6270a-75/s1280x1920/668ae62a60a1e62cf0da04f3271488edd2f040a4.pnj",
+                "onHover": "https://64.media.tumblr.com/789d8b08c02446db4c487d77999828bb/078792f6f9e6270a-54/s1280x1920/ed83977528a15225e3c877697e7233e4d606d60c.pnj",
+                "icon": "https://64.media.tumblr.com/3f0c528fa3b89e10700490d0e54393dc/078792f6f9e6270a-73/s1280x1920/d079041783a7a37620402657808bee847f4a6197.pnj"
+            },
+            "quads": {
+                "kismeisis": {
+                    "name": "Name",
+                    "link": "url"
+                }
+            },
+            "likes": [
+                "Music considered “old timey” by her siblings",
+                "Robots",
+                "Her work",
+                "Star wars",
+                "Logic puzzles and codes "
+            ],
+            "dislikes": [
+                "Bugs",
+                "Worms",
+                "Dirt",
+                "Most animals",
+                "Being touched by other trolls in any context but giving them a medical examination. "
+            ],
+            "theShortStory": "Hanagi is the eldest cheong. She is a prosthetics doctor who helped her family break Mondes out of prison. She can be grumpy sometimes and incredibly earnest in others, possessing a deep rooted kindness and willingness to give people a chance that has gotten her into trouble on more than one occasion. Like recently, when she brought the controversial recently deceased Bee Monark back to life, and now houses her in her and Mondes’s home.",
+            "theLongStory": {
+                "headerImg": "urlurl",
+                "link": "linkurl"
+            }
+        },
+        {
+            "name": "Dulkyu Cheong",
+            "pronouns": "she/her",
+            "caste": "jade",
+            "accentColor": "#9f34b4",
+            "favoriteTea": "Honey ginger",
+            "id": "dulkyu",
+            "sectionId": "cheongs",
+            "images": {
+                "static": "https://64.media.tumblr.com/44eb2851a25afee3f354ed309d036edd/87370f9af724c5e8-98/s1280x1920/d3b694490bce48103c08e02e5f833e6de815441e.pnj",
+                "onHover": "https://64.media.tumblr.com/42a6a7b2d58b64da7f08c44fcb90277a/87370f9af724c5e8-f6/s1280x1920/10323413cd440f0a3ebba00b84ece67c20014510.gif",
+                "icon": "https://64.media.tumblr.com/845209ef8b480e80ed25a4557f87d72c/87370f9af724c5e8-02/s1280x1920/d3394818f23b5ae9edfcaebe5e83f6a7f9f2ef3e.pnj"
+            },
+            "quads": {
+                "kismeisis": {
+                    "name": "Ferris",
+                    "link": "url"
+                }
+            },
+            "likes": [
+                "Being a brat",
+                "Feeling in control",
+                "Video games",
+                "Anime",
+                "Verula"
+            ],
+            "dislikes": [
+                "Being held accountable",
+                "Broccoli",
+                "Highbloods",
+                "Her old pirate friends"
+            ],
+            "theShortStory": "Dulkyu is the second eldest cheong, a hardened criminal and ex-pirate with a complicated relationship to her family. She learned early of their mutations, and did many questionable and immoral things in the name of protecting her family and Verula Dentry’s legacy. She was cut off by Hanagi and now works as a journalist, biding her time on her vague plans of world domination with her Kismesis Ferris Wheell.",
+            "theLongStory": {
+                "headerImg": "urlurl",
+                "link": "linkurl"
+            }
+        },
+        {
+            "name": "Sammin Cheong",
+            "pronouns": "she/her",
+            "caste": "rust",
+            "accentColor": "#9f34b4",
+            "favoriteTea": "Chamomile lavender",
+            "id": "sammin",
+            "sectionId": "cheongs",
+            "images": {
+                "static": "https://64.media.tumblr.com/80e9ae05eb5fb99832bb3194b2746039/1d8186846b192504-9f/s1280x1920/961ba7439b628dcfca0a2ba8ca507e48a599f5f9.pnj",
+                "onHover": "https://64.media.tumblr.com/89f2729720842e7933b5c2734ed78684/1d8186846b192504-e2/s1280x1920/c5af053bd10aa81f5e492fe5f3a724763e7f407d.pnj",
+                "icon": "https://64.media.tumblr.com/81e796737db60ce9ee89ad9cd714e82e/1d8186846b192504-88/s1280x1920/ca3469c350095defabf8c0ddfbee258151fcfa91.pnj"
+            },
+            "quads": {
+                "kismeisis": {
+                    "name": "name",
+                    "link": "url"
+                }
+            },
+            "likes": [
+                "Pleasant smells,",
+                "Nature,",
+                "Hunting,",
+                "K-pop,",
+                "Scene fashion,",
+                "Wildflowers"
+            ],
+            "dislikes": [
+                "Any and all annoying noises,",
+                "Dulkyu,",
+                "Not being taken seriously,",
+                "Twitch",
+                "Suspicion towards her faith. "
+            ],
+            "theShortStory": "Sammin is the third Cheong sibling. She faced the worst of Dulkyu’s abuse and was taken in by a cult at a vulnerable time in her life, where she still stubbornly resides as a nun. She is a master hunter and sharpshooter, thanks in part to Dulkyu using her as a child soldier and in part to possessing superhuman senses due to Verula Dentry’s meddling.",
+            "theLongStory": {
+                "headerImg": "urlurl",
+                "link": "linkurl"
+            }
+        },
+        {
+            "name": "Nesseo Cheong",
+            "pronouns": "They/Them",
+            "caste": "olive",
+            "accentColor": "#9f34b4",
+            "favoriteTea": "Fruity peach with Honey",
+            "id": "nesseo",
+            "sectionId": "cheongs",
+            "images": {
+                "static": "https://64.media.tumblr.com/a6ababa8877ecc63d0cafaab5e236f4f/2930e6c81e24943e-a6/s1280x1920/ce0c481a09cc22a16ba89d4b4b8558d6a3cf297c.pnj",
+                "onHover": "https://64.media.tumblr.com/e9c9955711f7bc179889aa783773dd50/2930e6c81e24943e-23/s1280x1920/7107c30854c70546bb7e23750413a60bff44b0dc.pnj",
+                "icon": "https://64.media.tumblr.com/58cec9cae3f7c4691d1cccf0ce1e6dd3/2930e6c81e24943e-0e/s1280x1920/22ebd7ea971fe9a01ffaab6c03ff13006a5304de.pnj"
+            },
+            "quads": {
+                "kismeisis": {
+                    "name": "name",
+                    "link": "url"
+                },
+                "matesprit": {
+                    "name": "name",
+                    "link": "url"
+                },
+                "moirail": {
+                    "name": "name",
+                    "link": "url"
+                },
+                "ashen": {
+                    "1": {
+                        "name": "name",
+                        "link": "url",
+                        "auspice": true
+                    },
+                    "2": {
+                        "name": "name",
+                        "link": "url",
+                        "auspice": false
+                    }
+                }
+            },
+            "likes": [
+                "Historical fiction",
+                "Romance novels",
+                "Trash TV",
+                "The color pink",
+                "spicy food"
+            ],
+            "dislikes": [
+                "Superhero movies",
+                "Responsibility",
+                "Rules",
+                "Condescension"
+            ],
+            "theShortStory": "Nesseo is the fourth and self proclaimed hottest cheong sibling. Their identity was revealed when they partook in a heist to save Mondes’s life and they had to drop out of college, leading them to spiral and their addiction to alcohol to escalate. This culminated in them finally going to rehab and recently re-entering college after everything regarding the prison break was resolved. They love reading, literature and fashion.",
+            "theLongStory": {
+                "headerImg": "urlurl",
+                "link": "linkurl"
+            }
+        },
+        {
+            "name": "Daseos Cheong",
+            "pronouns": "She/Her",
+            "caste": "Jade",
+            "accentColor": "#9f34b4",
+            "favoriteTea": "Peppermint with loads of sugar!",
+            "id": "daseos",
+            "sectionId": "cheongs",
+            "images": {
+                "static": "https://64.media.tumblr.com/40229cdb9b3f906d03b45aa152b1516b/712e593c8782e7af-bd/s1280x1920/b1725dfc2a84088bc665fdd2032077531446e1ea.pnj",
+                "onHover": "https://64.media.tumblr.com/4523bd0b436b13cb9deeca68f852a25f/712e593c8782e7af-2c/s1280x1920/25461722ee0cbcac040db37ece14d530cdad7a3b.pnj",
+                "icon": "https://64.media.tumblr.com/eb0dc21b6779fabc8a3c3f9dacec2251/712e593c8782e7af-8a/s1280x1920/7e9b1f35a271b8e2dfc3b2dbfa15ece7dd5f02a7.pnj"
+            },
+            "quads": {
+                "kismeisis": {
+                    "name": "name",
+                    "link": "url"
+                }
+            },
+            "likes": [
+                "Creepy animals!",
+                "Fascinating animals!",
+                "Regular animals!",
+                "Moving her body",
+                "the national geographic",
+                "the twilight zone",
+                "Nesseo"
+            ],
+            "dislikes": [
+                "avocado, ",
+                "people making fun of her volume control,",
+                "her siblings being upset",
+                "Homework"
+            ],
+            "theShortStory": "Daseos is the youngest Cheong sibling. She is a rainbowdrinker, and committed the murder that Mondes took the fall for. She loves strange animals and biology, and currently is attending the House of Restoration school. She is a troubled teenager with a rebellious streak. Her ancestor Verula Dentry gave her powers of necromancy. She has a lot of love in her heart for anyone and anything looked down upon by greater society.",
+            "theLongStory": {
+                "headerImg": "urlurl",
+                "link": "linkurl"
+            }
+        },
+        {
+            "name": "Mondes Rosado",
+            "pronouns": "He/Him",
+            "caste": "olive",
+            "accentColor": "#9f34b4",
+            "favoriteTea": "Hot taro milk tea",
+            "id": "mondes",
+            "sectionId": "cheongs",
+            "images": {
+                "static": "https://64.media.tumblr.com/2c4a7b37699f15ef946f0cc8a0735233/cadcaecf541e8570-1e/s1280x1920/ffe0bdaa944821d4fe04f00dd4d240c5256ba739.pnj",
+                "onHover": "https://64.media.tumblr.com/882146c82b8ac5006332cd3dda7e2887/cadcaecf541e8570-84/s1280x1920/a92e1e38a0db4e84712c4c4fe36eae62f69b11ed.gif",
+                "icon": "https://64.media.tumblr.com/fbbd2a9921f60fd30b03361669ef4b36/cadcaecf541e8570-ca/s1280x1920/bfe6b16e6ffe0f152aac3d59ac96d2a8599367ff.pnj"
+            },
+            "quads": {
+                "kismeisis": {
+                    "name": "Jodiah Monark",
+                    "link": "url"
+                }
+            },
+            "likes": [
+                "Classic sci-fi",
+                "Rabbits",
+                "Classical music",
+                "Cooking",
+                "Strange Vegetables"
+            ],
+            "dislikes": [
+                "Violins",
+                "The fleet"
+            ],
+            "theShortStory": "Mondes Is a cellist, and self proclaimed lover of dune and watership down. He was a homeless refugee who Daseos befriended on the streets. He took the fall for the murder she committed when the two were interrogated by Twitch Monark, and was to be executed before the Cheongs broke him out with a heist. He fell in love with Twitch’s estranged brother, Jodiah Monark, his current kismesis. Twitch later retracted her statements and left him a fortune. He gave the money to charity, and bought a hive for the Cheongs, in which he now resides and goes to college. ",
+            "theLongStory": {
+                "headerImg": "urlurl",
+                "link": "linkurl"
+            }
+        },
+        {
+            "name": "Sunset Blinks",
+            "pronouns": "He/Him",
+            "caste": "Purple",
+            "accentColor": "#9f34b4",
+            "favoriteTea": "London Fog",
+            "id": "sunset",
+            "sectionId": "amnesia",
+            "images": {
+                "static": "https://64.media.tumblr.com/7d8a06a0af7b21c11e7be0dfa19fe11a/ae9802e641d66a2d-c6/s1280x1920/997ec14a4349fcaefc47d58824c1f50af920920c.pnj",
+                "onHover": "https://64.media.tumblr.com/e92bb6a7c6fec21678aa9c5a5741958d/ae9802e641d66a2d-98/s1280x1920/e7c3c0523fbff42159a2067fa460d60d5b0c86fe.pnj",
+                "icon": "https://64.media.tumblr.com/8987d0634bad4f95497acb5d7d6ef062/ae9802e641d66a2d-6a/s1280x1920/c4f04566642892f63b3a5fa12707b0423d194090.pnj"
+            },
+            "quads": {
+                "kismeisis": {
+                    "name": "Name",
+                    "link": "url"
+                }
+            },
+            "likes": [
+                "Philosophy",
+                "Long winded tangents",
+                "Being a silly guy",
+                "Fashion",
+                "Makeup"
+            ],
+            "dislikes": [
+                "Midas",
+                "Delivery items with complicated assembly instructions",
+                "The terror of being known",
+                "Black Coffee",
+                "Fate itself"
+            ],
+            "theShortStory": "Sunset is a rising star in a gang called the Falling Moons in a crime ridden city called Tes Roven. He grew up as a mutant with four arms in a circus, and then worked as a mercenary, and then as a stripper. His moirail was killed by some of the Falling Moons members, and in a long and complicated quest for revenge, he had surgery that removed his mutated arms, infiltrated the mafia and rose in its ranks, intending to kill the man who is the head of the whole thing- a mysterious purpleblood named Midas who has not been seen in public for 300 sweeps since the death of his kismesis Kokoro Kimura.",
+            "theLongStory": {
+                "headerImg": "urlurl",
+                "link": "linkurl"
+            }
+        }
+    ]
+}
